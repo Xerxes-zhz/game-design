@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T12:29:25.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="cQl7Z5RGWfPRrZOKLIiF" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T12:36:43.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="WDjN2UYp58csZdJE1e8t" version="14.4.3" type="github">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="4600" dy="3893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-1" value="得到奖杯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3H0ZPJqHOz4oIsaQl5R-7" target="O3H0ZPJqHOz4oIsaQl5R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-7" value="开关B" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O3H0ZPJqHOz4oIsaQl5R-8" target="O3H0ZPJqHOz4oIsaQl5R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-8" value="开关C" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="385" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O3H0ZPJqHOz4oIsaQl5R-9" target="O3H0ZPJqHOz4oIsaQl5R-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-9" value="开关D" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="320" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3H0ZPJqHOz4oIsaQl5R-10" target="O3H0ZPJqHOz4oIsaQl5R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3H0ZPJqHOz4oIsaQl5R-10" target="O3H0ZPJqHOz4oIsaQl5R-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-10" value="尸体开关A" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O3H0ZPJqHOz4oIsaQl5R-11" target="O3H0ZPJqHOz4oIsaQl5R-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-11" value="僵尸&lt;br&gt;开关A" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O3H0ZPJqHOz4oIsaQl5R-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-18" value="开关E" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3H0ZPJqHOz4oIsaQl5R-21" value="&lt;span&gt;僵尸Y可以进入传送&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
